@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	v1 "github.com/UniDropOfficial/uninats-go/gen/unidrop/uninats/v1"
-	"github.com/UniDropOfficial/uninats-go/uninats"
+	v1 "github.com/unidropofficial/uninats-go/gen/unidrop/uninats/v1"
+	"github.com/unidropofficial/uninats-go/uninats"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -1,4 +1,4 @@
-module github.com/UniDropOfficial/uninats-go
+module github.com/unidropofficial/uninats-go
 
 go 1.24
 

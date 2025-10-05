@@ -7,10 +7,10 @@ import (
 	"os"
 	"time"
 
-	v1 "github.com/UniDropOfficial/uninats-go/gen/unidrop/uninats/v1"
-	"github.com/UniDropOfficial/uninats-go/uninats"
 	"github.com/google/uuid"
 	"github.com/nats-io/nats.go/jetstream"
+	v1 "github.com/unidropofficial/uninats-go/gen/unidrop/uninats/v1"
+	"github.com/unidropofficial/uninats-go/uninats"
 )
 
 var (

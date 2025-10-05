@@ -248,7 +248,7 @@ const file_unidrop_uninats_v1_uninats_proto_rawDesc = "" +
 	"\x04name\x18\x01 \x01(\tR\x04name\",\n" +
 	"\x10SayHelloResponse\x12\x18\n" +
 	"\amessage\x18\x01 \x01(\tR\amessageB\xce\x01\n" +
-	"\x16com.unidrop.uninats.v1B\fUninatsProtoP\x01Z<github.com/UniDropOfficial/uninats-go/gen/unidrop/uninats/v1\xa2\x02\x03UUX\xaa\x02\x12Unidrop.Uninats.V1\xca\x02\x12Unidrop\\Uninats\\V1\xe2\x02\x1eUnidrop\\Uninats\\V1\\GPBMetadata\xea\x02\x14Unidrop::Uninats::V1b\x06proto3"
+	"\x16com.unidrop.uninats.v1B\fUninatsProtoP\x01Z<github.com/unidropofficial/uninats-go/gen/unidrop/uninats/v1\xa2\x02\x03UUX\xaa\x02\x12Unidrop.Uninats.V1\xca\x02\x12Unidrop\\Uninats\\V1\xe2\x02\x1eUnidrop\\Uninats\\V1\\GPBMetadata\xea\x02\x14Unidrop::Uninats::V1b\x06proto3"
 
 var (
 	file_unidrop_uninats_v1_uninats_proto_rawDescOnce sync.Once

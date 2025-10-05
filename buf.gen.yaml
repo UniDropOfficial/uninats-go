@@ -6,7 +6,7 @@ managed:
   enabled: true
   override:
     - file_option: go_package
-      value: github.com/UniDropOfficial/uninats-go/gen/unidrop/uninats/v1
+      value: github.com/unidropofficial/uninats-go/gen/unidrop/uninats/v1
   disable:
     - file_option: go_package
       module: buf.build/googleapis/googleapis

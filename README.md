@@ -16,8 +16,8 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/nats-io/nats.go/jetstream"
-	"github.com/UniDropOfficial/uninats-go"
-	v1 "github.com/UniDropOfficial/uninats-go/gen/shooters/nexor/v1"
+	"github.com/unidropofficial/uninats-go"
+	v1 "github.com/unidropofficial/uninats-go/gen/shooters/nexor/v1"
 )
 
 var (

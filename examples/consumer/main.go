@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"log"
 
-	v1 "github.com/UniDropOfficial/uninats-go/gen/unidrop/uninats/v1"
-	"github.com/UniDropOfficial/uninats-go/uninats"
 	"github.com/nats-io/nats.go/jetstream"
+	v1 "github.com/unidropofficial/uninats-go/gen/unidrop/uninats/v1"
+	"github.com/unidropofficial/uninats-go/uninats"
 	"google.golang.org/protobuf/proto"
 )
 
